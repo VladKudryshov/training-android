@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Example</string>
+    <string name="name_button">One-Time Alarm</string>
+    <string name="rbt_toast">Toast</string>
+    <string name="rbt_notification">Notification</string>
 </resources>
