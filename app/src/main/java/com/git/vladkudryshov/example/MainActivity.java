@@ -12,10 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-<<<<<<< HEAD
         Log.d(Tag, "Some text");
-=======
         Log.d(Tag, "Cherry pic");
->>>>>>> 679865e5bc2720932fba15090d17012b8e10ef68
     }
 }
